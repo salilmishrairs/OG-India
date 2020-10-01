@@ -1,2 +1,2 @@
 # OG-India
-Overlapping generations model of the Indian economy
+Overlapping generations model of the Indian economy.
